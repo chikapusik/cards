@@ -1,0 +1,59 @@
+h1{color:rgb(219, 128, 247);
+    text-align: center;
+    padding-bottom:150px;
+    padding-top:20px;
+    font-weight:bold;
+    }
+
+
+.cards{width:750px;
+    padding:0 295px 0 0;
+    text-align:center;
+    position:relative;
+    cursor:pointer;
+   
+    }
+
+.img_1{position:absolute; 
+    z-index:27; border-radius:15px;}
+.img_2{position:absolute;
+    z-index:26; top:-1px; right:-1px; border-radius:15px;}
+.img_3{position:absolute;
+    z-index:25; top:-2px; right:-2px; border-radius:15px;}
+.img_4{position:absolute;
+    z-index:24; top:-3px; right:-3px; border-radius:15px;}
+.img_5{position:absolute;
+    z-index:23; top:-4px; right:-4px; border-radius:15px;}
+.img_6{position:absolute;
+    z-index:22; top:-5px; right:-5px; border-radius:15px;}
+.img_7{position:absolute;
+    z-index:21; top:-6px; right:-6px; border-radius:15px;}
+.img_8{position:absolute;
+    z-index:20; top:-7px; right:-7px; border-radius:15px;}
+.img_9{position:absolute;
+    z-index:19; top:-8px; right:-8px; border-radius:15px;}
+.img_10{position:absolute;
+    z-index:18; top:-9px; right:-9px; border-radius:15px;}
+.img_11{position:absolute;z-index:17; top:-10px; right:-10px; border-radius:15px;}
+.img_12{position:absolute;z-index:16; top:-11px; right:-11px; border-radius:15px;}
+.img_13{position:absolute;z-index:15; top:-12px; right:-12px; border-radius:15px;}
+.img_14{position:absolute;z-index:14; top:-13px; right:-13px; border-radius:15px;}
+.img_15{position:absolute;z-index:13; top:-14px; right:-14px; border-radius:15px;}
+.img_16{position:absolute;z-index:12; top:-15px; right:-15px; border-radius:15px;}
+.img_17{position:absolute;z-index:11; top:-16px; right:-16px; border-radius:15px;}
+.img_18{position:absolute;z-index:10; top:-17px; right:-17px; border-radius:15px;}
+.img_19{position:absolute;z-index:9; top:-18px; right:-18px; border-radius:15px;}
+.img_20{position:absolute;z-index:8; top:-19px; right:-19px; border-radius:15px;}
+.img_21{position:absolute;z-index:7; top:-20px; right:-20px; border-radius:15px;}
+.img_22{position:absolute;z-index:6; top:-21px; right:-21px; border-radius:15px;}
+.img_23{position:absolute;z-index:5; top:-22px; right:-22px; border-radius:15px;}
+.img_24{position:absolute;z-index:4; top:-23px; right:-23px; border-radius:15px;}
+.img_25{position:absolute;z-index:3; top:-24px; right:-24px; border-radius:15px;}
+.img_26{position:absolute;z-index:2; top:-25px; right:-25px; border-radius:15px;}
+.img_27{position:absolute; z-index:1; top:-26px; right:-26px; border-radius:15px;}
+
+button{color:violet;
+    font-size:24px;
+    font-weight:bold;
+  }
+  
